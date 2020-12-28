@@ -1,0 +1,28 @@
+print_all
+get history
+add gazza_ssanai A4-123
+efficiency_check
+validation_check
+add purity_of_dancer C2-112
+add happy_solo B5-331
+add uncle_chan C1-100
+add fancy_programmer C1-107
+print_tree
+efficiency_check
+validation_check
+remove history
+size
+print_all
+add wolverine_vs_superman H1-1
+add wolverine_vs_batman H1-2
+add wolverine_vs_ironman H1-3
+add wolverine_vs_hulk H1-4
+add wolverine_vs_spider_man H1-5
+order_search uncle_chan
+order_search 5
+order_search the_dungeon_and_dragon
+remove how_to_make_a_girl_friend
+remove fancy_programmer
+get uncle_chan
+efficiency_check
+validation_check

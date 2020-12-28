@@ -1,0 +1,39 @@
+BookSearch does not have any book
+BookSearch cannot find the book
+ADD:	gazza_ssanai A4-123
+BookSearch does not need to be reconstructed
+BookSearch is valid
+ADD:	purity_of_dancer C2-112
+ADD:	happy_solo B5-331
+ADD:	uncle_chan C1-100
+ADD:	fancy_programmer C1-107
+PRINT_TREE:	
+   gs5       
+  / \   
+ /   \  
+ fp1   pod3   
+    / \ 
+    hs1 uc1 
+                
+BookSearch does not need to be reconstructed
+BookSearch is valid
+BookSearch cannot find the book
+SIZE:	5
+BOOK:	fancy_programmer
+BOOK:	gazza_ssanai
+BOOK:	happy_solo
+BOOK:	purity_of_dancer
+BOOK:	uncle_chan
+ADD:	wolverine_vs_superman H1-1
+ADD:	wolverine_vs_batman H1-2
+ADD:	wolverine_vs_ironman H1-3
+ADD:	wolverine_vs_hulk H1-4
+ADD:	wolverine_vs_spider_man H1-5
+ORDER:	5
+ORDER:	uncle_chan
+BookSearch cannot find the book
+BookSearch cannot find the book
+REMOVE:	fancy_programmer C1-107
+GET:	uncle_chan C1-100
+BookSearch needs to be reconstructed
+BookSearch is valid

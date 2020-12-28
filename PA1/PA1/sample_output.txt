@@ -1,0 +1,26 @@
+clear success
+true
+push 1
+push 2
+false
+2
+pop 2
+pop 1
+true
+clear success
+true
+enqueue 1
+enqueue 2
+false
+2
+dequeue 1
+dequeue 2
+true
+false
+true
+false
+true
+false
+true
+false
+false
